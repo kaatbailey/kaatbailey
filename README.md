@@ -67,7 +67,6 @@ Scalable e-commerce platform with payment processing and order management.
 ### 📫 How to Reach Me
 
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - **Portfolio:** [kaatbailey.github.io](https://kaatbailey.github.io)
 
 ### 📊 GitHub Stats
