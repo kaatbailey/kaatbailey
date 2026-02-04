@@ -37,10 +37,6 @@ A full-stack web application showcasing American family-owned businesses with se
 - **Email:** [baileykaat@gmail.com](mailto:baileykaat@gmail.com)
 - **Portfolio:** [kaatbailey.github.io](https://kaatbailey.github.io)
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaatbailey&show_icons=true&theme=radical)
-
 ---
 
 💡 *Open to software development opportunities and interesting projects!*
