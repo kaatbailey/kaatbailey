@@ -29,7 +29,7 @@ A full-stack web application showcasing American family-owned businesses with se
 - Mobile-responsive design with modern UI/UX
 - Export functionality for data backup
 
-🔗 [Live Demo](https://yourusername.github.io/business-directory/) | 💻 [Source Code](https://github.com/yourusername/business-directory)
+🔗 [Live Demo]([https://yourusername.github.io/business-directory/](https://kaatbailey.github.io/SupabaseDirectory/index.html)) | 💻 [Source Code](https://github.com/yourusername/business-directory)
 
 ---
 
