@@ -32,6 +32,8 @@ A full-stack appointment booking system with a Java Spring Boot REST API backend
 - React frontend with client-side routing deployed to GitHub Pages
 - Package-by-feature architecture with DTOs, services, and global exception handling
 
+**NOTE: LIVE DEMO FREE TIER BACKEND HOST HAS A SPIN UP TIME FOR THIS APP APPROX 60 SECONDS WAIT.
+
 🔗 [Live Demo](https://kaatbailey.github.io/clinic-ui) | 💻 [Frontend](https://github.com/kaatbailey/clinic-ui) | 💻 [Backend](https://github.com/kaatbailey/com.clinic)
 
 ---
