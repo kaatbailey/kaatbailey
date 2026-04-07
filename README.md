@@ -52,7 +52,7 @@ A full-stack web application showcasing American family-owned businesses with se
 - Mobile-responsive design with modern UI/UX
 - Export functionality for data backup
 
-🔗 [Live Demo](https://kaatbailey.github.io/SupabaseDirectory/index.html) | 💻 [Source Code](https://github.com/kaatbailey/SupabaseDirectory)
+🔗 [Live Demo](https://kaatbailey.github.io/AmericanBusinesses/index.html) | 💻 [Source Code](https://github.com/kaatbailey/AmericanBusinesses)
 
 ---
 
