@@ -16,6 +16,27 @@ I'm a software developer with expertise in building robust backend systems and A
 
 ### 🚀 Featured Projects
 
+#### 📄 DocxRenderer
+A REST API that converts Word documents (.docx) to PDF, HTML, or JSON, with a React frontend for file upload and format selection.
+
+**Backend Tech Stack:** Java 21, Spring Boot 4, Apache POI, OpenPDF, Thumbnailator, Docker
+
+**Frontend Tech Stack:** React 19, Vite, Tailwind CSS
+
+**Features:**
+- RESTful endpoint accepting .docx file uploads via multipart form data
+- Three output formats — PDF download, self-contained HTML, or structured JSON with metadata and base64 images
+- Image compression via Thumbnailator with max dimension capping
+- Heading, paragraph, table, bold, italic, underline, strikethrough, and font color support
+- Dockerized backend deployed to Render
+- React frontend deployed to GitHub Pages
+
+**NOTE: LIVE DEMO FREE TIER BACKEND HOST HAS A SPIN UP TIME FOR THIS APP APPROX 60 SECONDS WAIT.**
+
+🔗 [Live Demo](https://kaatbailey.github.io/docx-renderer-ui) | 💻 [Frontend](https://github.com/kaatbailey/docx-renderer-ui) | 💻 [Backend](https://github.com/kaatbailey/DocxRenderer)
+
+---
+
 #### 🏥 Clinic Appointment System
 A full-stack appointment booking system with a Java Spring Boot REST API backend and React frontend, deployed to production.
 
@@ -32,7 +53,7 @@ A full-stack appointment booking system with a Java Spring Boot REST API backend
 - React frontend with client-side routing deployed to GitHub Pages
 - Package-by-feature architecture with DTOs, services, and global exception handling
 
-**NOTE: LIVE DEMO FREE TIER BACKEND HOST HAS A SPIN UP TIME FOR THIS APP APPROX 60 SECONDS WAIT.
+**NOTE: LIVE DEMO FREE TIER BACKEND HOST HAS A SPIN UP TIME FOR THIS APP APPROX 60 SECONDS WAIT.**
 
 🔗 [Live Demo](https://kaatbailey.github.io/clinic-ui) | 💻 [Frontend](https://github.com/kaatbailey/clinic-ui) | 💻 [Backend](https://github.com/kaatbailey/com.clinic)
 
